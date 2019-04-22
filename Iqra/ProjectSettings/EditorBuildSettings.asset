@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/mainMenu/mainMenu.unity
+    guid: 7df05734b6fa2404397021ed4b9706a6
+  - enabled: 1
+    path: Assets/Scenes/subMenu/asmaulHusna.unity
+    guid: a7f35a1d89c803b429368ab34c0c792f
+  - enabled: 1
+    path: Assets/Scenes/subMenu/hurufHijaiyah.unity
+    guid: a062fefd98124ca41904505d13801545
+  - enabled: 1
+    path: Assets/Scenes/subMenu/bacaanSholat.unity
+    guid: 7d0c1302a7dd63449b8452ddc476bb57
+  - enabled: 1
+    path: Assets/Scenes/subMenu/doaHarian.unity
+    guid: 21c367ab19eeb914e8c63e286ae1c427
+  - enabled: 1
+    path: Assets/Scenes/subMenu/bacaanWudhu.unity
+    guid: 26df23c55bbf8624bbf7b1d17e794e05
+  - enabled: 1
+    path: Assets/Scenes/subMenu/about.unity
+    guid: 3a3af0f540221b545aa0e2e618c5320f
+  - enabled: 1
+    path: Assets/Scenes/subMenu/setting.unity
+    guid: 26504467a4b882b4ea62a0cb1226f9e7
   m_configObjects: {}
